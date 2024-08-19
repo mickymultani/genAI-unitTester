@@ -1,0 +1,8 @@
+Please generate Solidity unit tests for the provided Ethereum smart contract. 
+IMPORTANT - for each test given a exlantion of what the unit test is intended to achieve.
+- Ensure you test every function and event.
+- Test for both successful and failing cases.
+- Include tests for security vulnerabilities such as reentrancy, integer overflows, unauthorized access, etc.
+- Make use of Hardhat or Foundry testing frameworks in the code structure.
+- Ensure 100% test coverage.
+- Provide clean and well-structured test code.

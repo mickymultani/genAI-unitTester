@@ -1,0 +1,15 @@
+# Ignore Python virtual environments
+venv/
+
+# Ignore Python byte-compiled files
+__pycache__/
+*.pyc
+
+# Ignore other unnecessary files
+.DS_Store        # macOS specific
+Thumbs.db        # Windows specific
+db.sqlite3       # SQLite database
+.vscode/         # VSCode specific settings
+
+# Environment variables
+.env
